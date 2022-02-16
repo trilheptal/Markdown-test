@@ -83,3 +83,14 @@ MarcDown se utiliza bastante en GitHub.
 * [ ] Tarea 04
 * [x] Tarea 05
 * [ ] Status
+* [ ] 
+<!--Como etiquetar a un usuario en GitHub para que vea la notificación -->
+## Etiquetar a un usuario 
+<br>
+### Para que vea una notificación en Github
+Simplemente se lo arroba: 
+@HectorLarrea
+
+###Emojis
+:smiley:   :+1:
+
