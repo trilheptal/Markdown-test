@@ -82,4 +82,4 @@ MarcDown se utiliza bastante en GitHub.
 * [ ] Tarea 03
 * [ ] Tarea 04
 * [x] Tarea 05
-* [ ] 
+* [ ] Status
